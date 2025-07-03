@@ -1,4 +1,5 @@
 # Paroscale-Assignment2
+I have successfully implemented the LRU cahe using doubly linked list and HashMap.Doubly linked list maints a access order having MOst REcently used Cache(MRU) at the head and LRU(Least recently used at the tail.THe hash maps provide O(1) average loop up time for cached items by mapping items with corresponding nodes in linked list.
 
 # Command
 gcc -o LRU main.c Assignment_2.c -Wall -Wextra -g
