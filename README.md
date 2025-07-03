@@ -9,10 +9,8 @@ gcc -o LRU main.c Assignment_2.c -Wall -Wextra -g
 
 # Output:Screenshot
 
+![image alt](https://github.com/Ishaanyadav2004/Paroscale-Assignment2/blob/main/Screenshot%20from%202025-07-03%2020-20-05.png?raw=true)
 ![image alt]()
-
-![image alt]()
-
 ![image alt](https://github.com/Ishaanyadav2004/Paroscale-Assignment2/blob/main/Screenshot%20from%202025-07-03%2020-20-23.png?raw=true)
 
 # Output:
